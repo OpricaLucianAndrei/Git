@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucian Andrei Oprica</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
-<p align="center">
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, SASS, TypeScript, Angular**
+<p align="center">- 🌱 I’m currently learning **HTML, CSS, JavaScript, SASS, TypeScript, Angular**</p>
+<p align="center">- 👯 I'm studying at [Epicode School](https://epicode.it) </p>
+<p align="center">- 👨‍💻 All of my projects are available at [https://github.com/OpricaLucianAndrei](https://github.com/OpricaLucianAndrei) </p>
+<p align="center">- 📫 How to reach me **opricalucian4@gmail.com**</p>
 
-- 👯 I'm studying at [Epicode School](https://epicode.it)
-
-- 👨‍💻 All of my projects are available at [https://github.com/OpricaLucianAndrei](https://github.com/OpricaLucianAndrei)
-
-- 📫 How to reach me **opricalucian4@gmail.com**
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lucian oprica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucian oprica" height="30" width="40" /></a>
